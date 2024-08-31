@@ -1,5 +1,5 @@
 
-class EmpleadoEventual(
+open class EmpleadoEventual(
     dni: String,
     nombre: String,
     apellido: String,
