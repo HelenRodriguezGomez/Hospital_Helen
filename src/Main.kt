@@ -152,7 +152,6 @@ fun listarMedicosPorEspecialidad(scanner: Scanner) {
         println("No se encontraron médicos con la especialidad: $especialidad")
     }
 }
-
 fun listarPacientesPorMedico(scanner: Scanner) {
     println("\n--- Listar Pacientes por Médico ---")
     println("Ingrese el código del médico:")
