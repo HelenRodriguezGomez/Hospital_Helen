@@ -1,4 +1,4 @@
-class Paciente(
+open class Paciente(
     dni: String,
     nombre: String,
     apellido: String,
